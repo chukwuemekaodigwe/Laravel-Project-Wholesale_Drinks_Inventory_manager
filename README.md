@@ -10,12 +10,12 @@ The system automatically generates records of the expected sales return and show
 
 Here are some screenshots of the product
 
-![Dashboard](/screenshots/dash.jpg){:height="100px" width="100px"}.
-![New Stock Page](/screenshots/new_stock.jpg){:height="100px" width="100px"}.
-![Stock Taking](/screenshots/upd.jpg){:height="100px" width="100px"}.
-![Stock Report](/screenshots/stockreport.jpg){:height="100px" width="100px"}.
-![Sales report](/screenshots/salesreport.jpg){:height="100px" width="100px"}.
-![All Sales report](./screenshots/salesreport2.jpg){:height="100px" width="100px"}.
+![Dashboard](/screenshots/dash.jpg}
+![New Stock Page](/screenshots/new_stock.jpg)
+![Stock Taking](/screenshots/upd.jpg)
+![Stock Report](/screenshots/stockreport.jpg)
+![Sales report](/screenshots/salesreport.jpg)
+![All Sales report](./screenshots/salesreport2.jpg)
 
 ### Credits ###
 This project was built for a classmate and friend, Tofan World Stores Nigeria
